@@ -1,0 +1,251 @@
+Product,Category,Price,Quantity,Total Sales,Customer Location,Payment Method,Status
+Running Shoes,Footwear,60,3,180,New York,Debit Card,Cancelled
+Headphones,Electronics,100,4,400,San Francisco,Debit Card,Pending
+Running Shoes,Footwear,60,2,120,Denver,Amazon Pay,Cancelled
+Running Shoes,Footwear,60,3,180,Dallas,Credit Card,Pending
+Smartwatch,Electronics,150,3,450,New York,Debit Card,Pending
+T-Shirt,Clothing,20,1,20,Dallas,Credit Card,Pending
+Smartwatch,Electronics,150,4,600,Houston,PayPal,Completed
+Smartphone,Electronics,500,1,500,Miami,PayPal,Completed
+T-Shirt,Clothing,20,3,60,Boston,PayPal,Completed
+Smartphone,Electronics,500,1,500,San Francisco,Credit Card,Cancelled
+Book,Books,15,2,30,Boston,Amazon Pay,Pending
+Jeans,Clothing,40,4,160,Dallas,Credit Card,Completed
+Laptop,Electronics,800,2,1600,San Francisco,Gift Card,Pending
+Washing Machine,Home Appliances,600,3,1800,Miami,Credit Card,Cancelled
+Smartwatch,Electronics,150,4,600,Seattle,Credit Card,Completed
+Refrigerator,Home Appliances,1200,1,1200,Boston,Credit Card,Cancelled
+T-Shirt,Clothing,20,1,20,New York,Amazon Pay,Completed
+Smartphone,Electronics,500,2,1000,Los Angeles,Amazon Pay,Completed
+Running Shoes,Footwear,60,3,180,Houston,Credit Card,Completed
+Headphones,Electronics,100,4,400,Seattle,Debit Card,Pending
+Headphones,Electronics,100,3,300,Miami,Debit Card,Cancelled
+Refrigerator,Home Appliances,1200,4,4800,Houston,Credit Card,Pending
+Book,Books,15,1,15,Houston,Credit Card,Pending
+Refrigerator,Home Appliances,1200,3,3600,Dallas,Credit Card,Cancelled
+Book,Books,15,5,75,Seattle,Amazon Pay,Completed
+Washing Machine,Home Appliances,600,1,600,Boston,Debit Card,Cancelled
+T-Shirt,Clothing,20,1,20,New York,Amazon Pay,Pending
+Headphones,Electronics,100,1,100,Chicago,Amazon Pay,Completed
+Smartphone,Electronics,500,1,500,Denver,Credit Card,Cancelled
+Washing Machine,Home Appliances,600,3,1800,Dallas,Gift Card,Cancelled
+Smartphone,Electronics,500,1,500,Houston,Gift Card,Pending
+Smartphone,Electronics,500,4,2000,Seattle,PayPal,Pending
+Book,Books,15,1,15,New York,Debit Card,Cancelled
+T-Shirt,Clothing,20,5,100,New York,Credit Card,Pending
+Laptop,Electronics,800,3,2400,Denver,Amazon Pay,Completed
+Refrigerator,Home Appliances,1200,2,2400,Boston,PayPal,Cancelled
+Headphones,Electronics,100,3,300,New York,Debit Card,Cancelled
+Laptop,Electronics,800,3,2400,Chicago,Amazon Pay,Completed
+Laptop,Electronics,800,2,1600,San Francisco,PayPal,Completed
+Smartwatch,Electronics,150,1,150,Seattle,Gift Card,Pending
+Book,Books,15,1,15,Miami,Credit Card,Cancelled
+Headphones,Electronics,100,3,300,Chicago,Amazon Pay,Cancelled
+T-Shirt,Clothing,20,4,80,Denver,Credit Card,Pending
+Smartwatch,Electronics,150,1,150,Houston,Debit Card,Pending
+Refrigerator,Home Appliances,1200,3,3600,New York,Credit Card,Pending
+Running Shoes,Footwear,60,2,120,Houston,Debit Card,Cancelled
+T-Shirt,Clothing,20,2,40,Miami,Gift Card,Cancelled
+T-Shirt,Clothing,20,5,100,Denver,Amazon Pay,Completed
+Smartphone,Electronics,500,4,2000,Chicago,Debit Card,Completed
+Jeans,Clothing,40,3,120,Boston,Gift Card,Completed
+Book,Books,15,1,15,Houston,Gift Card,Cancelled
+Laptop,Electronics,800,3,2400,San Francisco,Credit Card,Pending
+Running Shoes,Footwear,60,4,240,Los Angeles,PayPal,Completed
+Smartwatch,Electronics,150,3,450,Boston,Gift Card,Pending
+Jeans,Clothing,40,2,80,Dallas,PayPal,Completed
+Smartwatch,Electronics,150,2,300,Dallas,Credit Card,Completed
+Smartphone,Electronics,500,1,500,Los Angeles,Debit Card,Cancelled
+Smartphone,Electronics,500,1,500,Chicago,PayPal,Cancelled
+Smartwatch,Electronics,150,2,300,Dallas,Credit Card,Cancelled
+Book,Books,15,5,75,Dallas,Credit Card,Pending
+Refrigerator,Home Appliances,1200,1,1200,New York,PayPal,Cancelled
+Laptop,Electronics,800,5,4000,San Francisco,PayPal,Completed
+Smartphone,Electronics,500,5,2500,Miami,Gift Card,Completed
+Refrigerator,Home Appliances,1200,4,4800,Denver,PayPal,Pending
+Book,Books,15,3,45,San Francisco,Amazon Pay,Pending
+Smartwatch,Electronics,150,2,300,Denver,PayPal,Pending
+Headphones,Electronics,100,3,300,New York,Debit Card,Pending
+Headphones,Electronics,100,1,100,Houston,Debit Card,Cancelled
+Refrigerator,Home Appliances,1200,4,4800,Boston,Gift Card,Pending
+Book,Books,15,1,15,Boston,Credit Card,Completed
+Smartwatch,Electronics,150,5,750,Denver,Credit Card,Pending
+Laptop,Electronics,800,3,2400,Houston,Credit Card,Pending
+Smartphone,Electronics,500,5,2500,Miami,Credit Card,Cancelled
+Refrigerator,Home Appliances,1200,4,4800,Dallas,Gift Card,Cancelled
+Headphones,Electronics,100,2,200,Boston,PayPal,Pending
+Washing Machine,Home Appliances,600,1,600,Dallas,Amazon Pay,Completed
+Headphones,Electronics,100,2,200,Houston,Credit Card,Completed
+Smartwatch,Electronics,150,2,300,Los Angeles,Gift Card,Cancelled
+Running Shoes,Footwear,60,2,120,Denver,Gift Card,Cancelled
+Running Shoes,Footwear,60,4,240,San Francisco,Debit Card,Pending
+Headphones,Electronics,100,3,300,Chicago,PayPal,Cancelled
+Smartphone,Electronics,500,3,1500,Seattle,Debit Card,Cancelled
+Washing Machine,Home Appliances,600,4,2400,Houston,Gift Card,Cancelled
+T-Shirt,Clothing,20,5,100,Boston,PayPal,Completed
+Smartphone,Electronics,500,5,2500,Houston,PayPal,Completed
+Smartwatch,Electronics,150,5,750,Dallas,PayPal,Cancelled
+Running Shoes,Footwear,60,5,300,Miami,Debit Card,Completed
+Refrigerator,Home Appliances,1200,2,2400,Seattle,Debit Card,Pending
+Running Shoes,Footwear,60,5,300,Los Angeles,Credit Card,Cancelled
+Smartwatch,Electronics,150,5,750,Houston,Amazon Pay,Completed
+Laptop,Electronics,800,4,3200,Houston,Gift Card,Pending
+Smartphone,Electronics,500,2,1000,Boston,PayPal,Cancelled
+Refrigerator,Home Appliances,1200,5,6000,Denver,PayPal,Cancelled
+Jeans,Clothing,40,5,200,Seattle,Credit Card,Cancelled
+Smartwatch,Electronics,150,4,600,New York,Debit Card,Cancelled
+Smartwatch,Electronics,150,3,450,New York,Amazon Pay,Completed
+Book,Books,15,5,75,Chicago,Amazon Pay,Pending
+Smartwatch,Electronics,150,2,300,Miami,PayPal,Pending
+Washing Machine,Home Appliances,600,5,3000,Seattle,Debit Card,Completed
+Running Shoes,Footwear,60,1,60,Houston,Gift Card,Cancelled
+Book,Books,15,5,75,Denver,PayPal,Pending
+Smartphone,Electronics,500,2,1000,Boston,PayPal,Pending
+T-Shirt,Clothing,20,2,40,Chicago,PayPal,Pending
+Jeans,Clothing,40,5,200,Dallas,Debit Card,Pending
+Jeans,Clothing,40,1,40,Boston,Debit Card,Pending
+T-Shirt,Clothing,20,3,60,Chicago,PayPal,Pending
+Jeans,Clothing,40,3,120,Dallas,Credit Card,Cancelled
+Headphones,Electronics,100,2,200,Miami,PayPal,Pending
+Jeans,Clothing,40,5,200,New York,PayPal,Completed
+Smartphone,Electronics,500,5,2500,Dallas,Amazon Pay,Pending
+Laptop,Electronics,800,4,3200,Los Angeles,Credit Card,Completed
+Washing Machine,Home Appliances,600,2,1200,Dallas,Gift Card,Cancelled
+Book,Books,15,5,75,San Francisco,Debit Card,Pending
+Running Shoes,Footwear,60,1,60,Houston,Credit Card,Pending
+Running Shoes,Footwear,60,3,180,Miami,Amazon Pay,Completed
+Laptop,Electronics,800,4,3200,Los Angeles,Amazon Pay,Completed
+T-Shirt,Clothing,20,1,20,New York,Credit Card,Completed
+Headphones,Electronics,100,5,500,Houston,Amazon Pay,Completed
+Smartphone,Electronics,500,2,1000,Chicago,PayPal,Pending
+Laptop,Electronics,800,5,4000,Denver,PayPal,Completed
+Smartphone,Electronics,500,1,500,Dallas,Gift Card,Pending
+Laptop,Electronics,800,3,2400,Miami,Credit Card,Cancelled
+Book,Books,15,3,45,Boston,Gift Card,Cancelled
+Book,Books,15,1,15,Seattle,Gift Card,Pending
+Smartphone,Electronics,500,1,500,Denver,Amazon Pay,Completed
+Refrigerator,Home Appliances,1200,5,6000,Chicago,Gift Card,Pending
+T-Shirt,Clothing,20,3,60,Dallas,Debit Card,Completed
+Smartwatch,Electronics,150,2,300,Dallas,PayPal,Cancelled
+Jeans,Clothing,40,5,200,New York,Debit Card,Pending
+Smartwatch,Electronics,150,5,750,Boston,PayPal,Completed
+Jeans,Clothing,40,2,80,Chicago,Credit Card,Pending
+Smartphone,Electronics,500,2,1000,Chicago,Debit Card,Pending
+Laptop,Electronics,800,1,800,New York,Amazon Pay,Pending
+Smartphone,Electronics,500,5,2500,Chicago,Gift Card,Pending
+T-Shirt,Clothing,20,1,20,Miami,Credit Card,Pending
+Refrigerator,Home Appliances,1200,2,2400,San Francisco,PayPal,Cancelled
+Smartwatch,Electronics,150,3,450,San Francisco,Debit Card,Completed
+Smartwatch,Electronics,150,5,750,Los Angeles,Credit Card,Cancelled
+Laptop,Electronics,800,2,1600,Denver,PayPal,Cancelled
+Smartwatch,Electronics,150,2,300,Miami,Debit Card,Completed
+Smartphone,Electronics,500,2,1000,Miami,PayPal,Completed
+Smartphone,Electronics,500,3,1500,Miami,Gift Card,Completed
+Refrigerator,Home Appliances,1200,2,2400,Dallas,PayPal,Cancelled
+Jeans,Clothing,40,2,80,Los Angeles,Gift Card,Cancelled
+Smartwatch,Electronics,150,2,300,Seattle,Debit Card,Cancelled
+Smartwatch,Electronics,150,2,300,Boston,Debit Card,Completed
+Running Shoes,Footwear,60,5,300,Dallas,PayPal,Pending
+Headphones,Electronics,100,4,400,Los Angeles,Amazon Pay,Cancelled
+Running Shoes,Footwear,60,3,180,New York,Gift Card,Pending
+Book,Books,15,4,60,Chicago,Gift Card,Cancelled
+Washing Machine,Home Appliances,600,4,2400,Los Angeles,Amazon Pay,Pending
+Smartwatch,Electronics,150,1,150,Seattle,Gift Card,Completed
+Smartwatch,Electronics,150,5,750,San Francisco,PayPal,Pending
+Headphones,Electronics,100,2,200,Denver,Debit Card,Completed
+Refrigerator,Home Appliances,1200,4,4800,Seattle,Credit Card,Pending
+Smartwatch,Electronics,150,4,600,Miami,PayPal,Cancelled
+Smartphone,Electronics,500,3,1500,Denver,Credit Card,Pending
+Laptop,Electronics,800,3,2400,Miami,Debit Card,Pending
+T-Shirt,Clothing,20,2,40,Dallas,Gift Card,Cancelled
+Washing Machine,Home Appliances,600,3,1800,Denver,Gift Card,Cancelled
+Headphones,Electronics,100,1,100,Los Angeles,Credit Card,Completed
+Smartphone,Electronics,500,2,1000,Chicago,Credit Card,Completed
+Running Shoes,Footwear,60,2,120,Houston,PayPal,Completed
+Smartwatch,Electronics,150,5,750,Boston,Debit Card,Pending
+Book,Books,15,1,15,New York,Amazon Pay,Pending
+Washing Machine,Home Appliances,600,4,2400,Houston,Credit Card,Pending
+Refrigerator,Home Appliances,1200,2,2400,Seattle,Credit Card,Completed
+Laptop,Electronics,800,5,4000,Miami,Debit Card,Pending
+Refrigerator,Home Appliances,1200,2,2400,Denver,PayPal,Completed
+Laptop,Electronics,800,1,800,San Francisco,Gift Card,Pending
+Smartwatch,Electronics,150,2,300,Houston,PayPal,Completed
+Book,Books,15,1,15,Miami,Debit Card,Cancelled
+Refrigerator,Home Appliances,1200,1,1200,Seattle,PayPal,Completed
+Smartwatch,Electronics,150,2,300,Chicago,Debit Card,Pending
+Jeans,Clothing,40,5,200,New York,Debit Card,Cancelled
+Book,Books,15,1,15,Boston,Amazon Pay,Completed
+Book,Books,15,5,75,San Francisco,Credit Card,Pending
+Smartphone,Electronics,500,3,1500,Chicago,PayPal,Completed
+Jeans,Clothing,40,1,40,Seattle,PayPal,Cancelled
+Refrigerator,Home Appliances,1200,3,3600,Boston,Gift Card,Completed
+Running Shoes,Footwear,60,2,120,Los Angeles,Debit Card,Cancelled
+T-Shirt,Clothing,20,5,100,Denver,PayPal,Completed
+Washing Machine,Home Appliances,600,1,600,Seattle,Debit Card,Pending
+Book,Books,15,5,75,Miami,Debit Card,Pending
+T-Shirt,Clothing,20,1,20,Dallas,Debit Card,Completed
+Washing Machine,Home Appliances,600,4,2400,New York,PayPal,Completed
+Laptop,Electronics,800,3,2400,New York,PayPal,Pending
+Book,Books,15,1,15,Boston,Amazon Pay,Completed
+Laptop,Electronics,800,3,2400,Houston,Amazon Pay,Completed
+Running Shoes,Footwear,60,1,60,Houston,PayPal,Completed
+Jeans,Clothing,40,4,160,Seattle,Amazon Pay,Pending
+Headphones,Electronics,100,3,300,Dallas,Gift Card,Pending
+Book,Books,15,5,75,Chicago,Amazon Pay,Pending
+Jeans,Clothing,40,4,160,San Francisco,Debit Card,Cancelled
+Smartphone,Electronics,500,3,1500,Denver,Gift Card,Cancelled
+Headphones,Electronics,100,5,500,Seattle,Debit Card,Pending
+Running Shoes,Footwear,60,2,120,Denver,Gift Card,Completed
+Laptop,Electronics,800,4,3200,Seattle,Amazon Pay,Pending
+Smartphone,Electronics,500,3,1500,Dallas,Credit Card,Completed
+Book,Books,15,2,30,Los Angeles,Debit Card,Completed
+Book,Books,15,4,60,San Francisco,Credit Card,Completed
+Smartphone,Electronics,500,2,1000,Miami,Credit Card,Cancelled
+Refrigerator,Home Appliances,1200,3,3600,Dallas,Debit Card,Completed
+Running Shoes,Footwear,60,5,300,Miami,Gift Card,Pending
+Headphones,Electronics,100,2,200,Houston,PayPal,Completed
+Washing Machine,Home Appliances,600,5,3000,Miami,Amazon Pay,Pending
+Washing Machine,Home Appliances,600,1,600,Miami,Credit Card,Completed
+Refrigerator,Home Appliances,1200,3,3600,Miami,PayPal,Completed
+Jeans,Clothing,40,5,200,Dallas,PayPal,Completed
+Laptop,Electronics,800,3,2400,New York,PayPal,Completed
+Smartphone,Electronics,500,1,500,Miami,Gift Card,Pending
+T-Shirt,Clothing,20,4,80,Houston,Debit Card,Completed
+Laptop,Electronics,800,1,800,Los Angeles,Amazon Pay,Cancelled
+Smartwatch,Electronics,150,5,750,Houston,Debit Card,Completed
+Running Shoes,Footwear,60,1,60,Houston,PayPal,Completed
+Jeans,Clothing,40,2,80,Chicago,Credit Card,Completed
+Running Shoes,Footwear,60,2,120,Boston,Gift Card,Pending
+Headphones,Electronics,100,4,400,New York,Gift Card,Cancelled
+Headphones,Electronics,100,3,300,Houston,PayPal,Cancelled
+Smartwatch,Electronics,150,3,450,Denver,Debit Card,Completed
+Washing Machine,Home Appliances,600,2,1200,Chicago,Gift Card,Cancelled
+Washing Machine,Home Appliances,600,2,1200,Seattle,PayPal,Cancelled
+Jeans,Clothing,40,2,80,Denver,Amazon Pay,Cancelled
+Refrigerator,Home Appliances,1200,1,1200,Miami,PayPal,Completed
+Jeans,Clothing,40,1,40,New York,Gift Card,Cancelled
+Running Shoes,Footwear,60,4,240,Chicago,Amazon Pay,Completed
+Headphones,Electronics,100,5,500,Miami,Amazon Pay,Cancelled
+Running Shoes,Footwear,60,1,60,San Francisco,Credit Card,Pending
+Running Shoes,Footwear,60,3,180,San Francisco,Credit Card,Pending
+Headphones,Electronics,100,4,400,San Francisco,Amazon Pay,Pending
+Laptop,Electronics,800,5,4000,Boston,Credit Card,Cancelled
+Refrigerator,Home Appliances,1200,3,3600,Los Angeles,Credit Card,Completed
+Running Shoes,Footwear,60,1,60,Boston,PayPal,Cancelled
+Book,Books,15,1,15,Miami,Amazon Pay,Cancelled
+Refrigerator,Home Appliances,1200,1,1200,Dallas,PayPal,Completed
+Smartphone,Electronics,500,5,2500,Boston,PayPal,Completed
+Headphones,Electronics,100,3,300,Houston,Debit Card,Cancelled
+Headphones,Electronics,100,1,100,Denver,PayPal,Completed
+Smartwatch,Electronics,150,5,750,Houston,Amazon Pay,Completed
+Smartwatch,Electronics,150,1,150,Denver,Gift Card,Pending
+Smartphone,Electronics,500,4,2000,New York,Credit Card,Pending
+Smartphone,Electronics,500,4,2000,Boston,Gift Card,Pending
+Running Shoes,Footwear,60,2,120,Houston,Amazon Pay,Completed
+Smartphone,Electronics,500,4,2000,Houston,Credit Card,Completed
+Laptop,Electronics,800,1,800,Los Angeles,Credit Card,Cancelled
+T-Shirt,Clothing,20,2,40,Miami,Debit Card,Cancelled
+Jeans,Clothing,40,1,40,Dallas,Debit Card,Cancelled
+T-Shirt,Clothing,20,2,40,Denver,Debit Card,Cancelled
+Smartwatch,Electronics,150,3,450,New York,Debit Card,Cancelled
+Smartphone,Electronics,500,4,2000,Seattle,Amazon Pay,Completed
